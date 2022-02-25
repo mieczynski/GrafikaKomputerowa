@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Łukasz\source\repos\Grafika3\Grafika3\main.cpp(230,2): error C3861: "RenderScene": identyfikatora nie odnaleziono
+C:\Users\Łukasz\source\repos\Grafika3\Grafika3\main.cpp(352,1): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
