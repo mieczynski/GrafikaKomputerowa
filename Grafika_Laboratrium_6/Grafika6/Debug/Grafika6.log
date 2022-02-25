@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Łukasz\source\repos\Grafika6\Grafika6\main.cpp(909,1): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  Grafika6.vcxproj -> C:\Users\Łukasz\source\repos\Grafika6\Debug\Grafika6.exe

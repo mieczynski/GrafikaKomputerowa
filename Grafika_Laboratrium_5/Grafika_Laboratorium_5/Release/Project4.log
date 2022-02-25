@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Katalog pośredni (Release\) zawiera pliki udostępnione z innego projektu (Project4.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Grafika5.cpp
+C:\Users\Łukasz\source\repos\Project4\Project4\Grafika5.cpp(577,1): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 27 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Project4.vcxproj -> C:\Users\Łukasz\source\repos\Project4\Release\Grafika_Laboratirum_5.exe

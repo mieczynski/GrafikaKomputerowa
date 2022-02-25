@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Łukasz\source\repos\Grafika6\Grafika6\main.cpp(958,1): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  Trwa generowanie kodu
+  1 of 29 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Grafika6.vcxproj -> C:\Users\Łukasz\source\repos\Grafika6\Release\Grafika6.exe
